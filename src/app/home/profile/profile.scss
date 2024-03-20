@@ -1,0 +1,28 @@
+@import '../../../styles/index.scss';
+
+.profile {
+    .container {
+        section {
+            margin-top: 20px;
+
+            .heading {
+                border: 2px solid #005678;
+                border-radius: 50px 0;
+                width: fit-content;
+                padding: 20px;
+                margin: 0 auto;
+                text-align: center;
+
+                h1 {
+                    font-size: 40px;
+
+                }
+
+                span {
+                    font-size: 20px;
+                    font-weight: 400;
+                }
+            }
+        }
+    }
+}
